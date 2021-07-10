@@ -94,10 +94,6 @@ Electrical Engineering alumnus at [ Federal University of Bahia](https://en.wiki
 <br />
 <br />
 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=brenoamin.brenoamin)
-
 <br >
 
 #### Github Stats
@@ -110,6 +106,9 @@ Electrical Engineering alumnus at [ Federal University of Bahia](https://en.wiki
     </tr>   
   </table>
 </center>  
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=brenoamin.brenoamin)
 
 
 
