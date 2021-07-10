@@ -39,7 +39,7 @@ Electrical Engineering alumnus at [ Federal University of Bahia](https://en.wiki
 - 📚 Bachelor's degree in Electrical Engineering at UFBA
 - :computer: Studying Software Development at [Cubos Academy](https://cubos.academy/)
 - 🤔 I’m looking for new experiences, share new contents and discover many new awesome tools.
-- 💬 Ask me about: Web Development, IoT and Design Circuit
+- 💬 Ask me about: Web Development, IoT and Design Circuit.
 - 📫 How to reach me: brenomatos125@gmail.com.
 - 😄 Pronouns: he/him/his (ele/dele/seu).
 - ⚡ Fun fact: even though I recognize the safety of airplanes, I am afraid of flying. ✈️
