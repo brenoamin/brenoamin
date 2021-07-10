@@ -69,7 +69,9 @@ Electrical Engineering alumnus at [ Federal University of Bahia](https://en.wiki
 </p>
 <br>
 <br>
+
 #### Technologies I've worked with:
+
 <p align="center">
   <a>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
