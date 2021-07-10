@@ -45,7 +45,7 @@ Electrical Engineering alumnus at [ Federal University of Bahia](https://en.wiki
 - 😄 Pronouns: he/him/his (ele/dele/seu).
 - ⚡ Fun fact: even though I recognize the safety of airplanes, I am afraid of flying.
 
-#### Languages I've used:
+#### Languages I've already used:
 <p align="center">
 <a>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -106,6 +106,7 @@ Electrical Engineering alumnus at [ Federal University of Bahia](https://en.wiki
     </tr>   
   </table>
 </center>  
+
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=brenoamin.brenoamin)
