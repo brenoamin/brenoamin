@@ -100,8 +100,8 @@ Electrical Engineering alumnus at [ Federal University of Bahia](https://en.wiki
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoamin&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php"> /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=brenoamin&theme=buefy"/></td>
+       <td><img width="400px" align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aveek-saha&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php"></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=brenoamin&theme=buefy"></td>
     </tr>   
   </table>
 </center>  
