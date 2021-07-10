@@ -1,6 +1,6 @@
 ## Hello, I'm Breno <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Electrical Engineering alumnus at [ Federal University of Bahia](https://en.wikipedia.org/wiki/Federal_University_of_Bahia). Full Stack Developer enthusiast with passion for sports, videogames and the power of technology. Fascinated by how technology can impact and transform lifes. Proudly from [Salvador, Brasil](https://bityli.com/jVxnI) :brazil:
+Electrical Engineering alumnus at [ Federal University of Bahia](https://en.wikipedia.org/wiki/Federal_University_of_Bahia). Full Stack Developer enthusiast with passion for sports, videogames and the power of technology. Fascinated by how technology can impact and transform lifes. Proudly from [Salvador, Brasil](encurtador.com.br/doxM7) :brazil:
 
 :mailbox: Get in touch!
 
