@@ -42,7 +42,7 @@ Electrical Engineering alumnus at [ Federal University of Bahia](https://en.wiki
 - 💬 Ask me about: Web Development, IoT and Design Circuit
 - 📫 How to reach me: brenomatos125@gmail.com.
 - 😄 Pronouns: he/him/his (ele/dele/seu).
-- ⚡ Fun fact: even though I recognize the safety of airplanes, I am afraid of flying.
+- ⚡ Fun fact: even though I recognize the safety of airplanes, I am afraid of flying. ✈️
 
 #### Languages I've already used:
 <p align="center">
