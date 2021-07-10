@@ -98,11 +98,6 @@ Electrical Engineering alumnus at [ Federal University of Bahia](https://en.wiki
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=brenoamin.brenoamin)
 
-<details>
-<summary>
-  More stuff about me
-</summary>
-
 <br >
 
 #### Github Stats
