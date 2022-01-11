@@ -52,6 +52,9 @@ Electrical Engineering alumnus at [ Federal University of Bahia](https://en.wiki
   <a>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </a>
+   <a>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
   <a>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   </a>
@@ -60,9 +63,6 @@ Electrical Engineering alumnus at [ Federal University of Bahia](https://en.wiki
   </a>
   <a>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </a>
 
 </p>
