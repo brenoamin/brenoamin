@@ -101,7 +101,7 @@ Electrical Engineering alumnus at [ Federal University of Bahia](https://en.wiki
   <table>
     <tr>
        <td><img width="400px" align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoamin&layout=compact&langs_count=7&theme=dark"></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=brenoamin&theme=default&show_icons=true"></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=brenoamin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"></td>
     </tr>   
   </table>
 </center>  
