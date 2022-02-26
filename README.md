@@ -108,9 +108,6 @@ Electrical Engineering alumnus at [ the Federal University of Bahia](https://en.
   </table>
 </center>  
 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=brenoamin.brenoamin)
 
 
 
