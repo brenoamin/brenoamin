@@ -1,6 +1,6 @@
 ## Hello, I'm Breno!
 
-Electrical Engineering alumnus at [ the Federal University of Bahia](https://en.wikipedia.org/wiki/Federal_University_of_Bahia). Developer with a passion for sports, videogames, and the power of technology. Fascinated by how technology can impact and transform lives. Proudly from [Salvador, Brasil](https://url.gratis/zc4LE9) :brazil:
+Electrical Engineering alumnus at [ the Federal University of Bahia](https://en.wikipedia.org/wiki/Federal_University_of_Bahia). Developer with a passion for sports, video games, and the power of technology. Fascinated by how technology can impact and transform lives. Proudly from [Salvador, Brasil](https://g.co/kgs/Cbk8y3) :brazil:
 
 :mailbox: Get in touch!
 
