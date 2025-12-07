@@ -26,10 +26,10 @@ Focused on backend architecture, distributed systems and software design — cle
 
 ### 📌 Experience Highlights
 
-- 🚀 Reduced validation latency by **96%** and operational cost by **93.7%** building an in-house validation system in Go (**iFood**)  
+- 🚀 Reduced validation latency by **96%** and operational cost by **93.7%** building an in-house validation system in Go
 - 🔄 Unified **150k+ leads** using Kotlin + PostgreSQL — improving flow reliability and traceability  
 - ⚡ Reduced report generation time from **7 days → seconds** with automation in Ruby on Rails  
-- 📈 Delivered features that exceeded quarterly goals by **120%** at **Pipefy**  
+- 📈 Delivered features that exceeded quarterly goals by **120%** 
 - 🧩 Migrated core platform from Elixir → Ruby, enabling **90% of client interactions within the first month**  
 - 🧪 Established QA standards across 9 services, later evolving into a dedicated QA team
 
