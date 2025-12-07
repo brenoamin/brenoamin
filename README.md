@@ -3,7 +3,7 @@
 Computer Engineer working as a Software Engineer with 3.5+ years of experience building scalable backend systems using Golang and Ruby.
 I care about reliability, performance, and delivering solutions that move business metrics — not just code.
 
-I've worked on platforms serving millions of users, reduced operational costs by more than 90%, cut processes from days to seconds, and helped teams move faster through automation and strong engineering decisions.
+I've worked on platforms serving millions of users, reduced operational costs, cut processes, and helped teams move faster through automation and strong engineering decisions.
 
 Focused on backend architecture, distributed systems and software design — clean, scalable and built to last.
 
