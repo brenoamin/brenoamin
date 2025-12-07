@@ -49,17 +49,9 @@ I like meaningful engineering: real problems, real performance, real outcomes.
 
 - 📈 Growth-driven engineering: more leads, lower CAC, safer flows
 
-### 📫 Get in touch!
+### 📩 Let's Connect!
 
-<p align="center">
-<a href="https://t.me/brenuamin" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="mailto:brenomatos125@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/breno-amin-a2b027127/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
-
+📨 **Email:** [brenomatos125@gmail.com](mailto:brenomatos125@gmail.com)  
+💬 **Telegram:** [@brenuamin](https://t.me/brenuamin)  
+🔗 **LinkedIn:** [linkedin.com/in/breno-amin](https://www.linkedin.com/in/breno-amin)  
+🐙 **GitHub:** [github.com/brenoamin](https://github.com/brenoamin)
