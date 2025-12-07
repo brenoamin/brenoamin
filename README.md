@@ -12,10 +12,10 @@ Focused on backend architecture, distributed systems and software design — cle
 ### 🔧 Core Stack
 
 💠 **Primary**
-> Golang • Ruby • Ruby on Rails
+> Golang • Ruby • Ruby on Rails • Kotlin 
 
 💠 **Also experienced with**
-> Kotlin • TypeScript • JavaScript • React.js • GraphQL
+>  TypeScript • JavaScript • React.js • GraphQL
 
 💠 **Ecosystem**
 > PostgreSQL • DynamoDB • Redis • Kafka • AWS SQS/SNS  
