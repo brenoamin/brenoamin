@@ -3,7 +3,7 @@
 Software Engineer with 3.5+ years of experience building scalable backend systems using **Golang** and **Ruby**.  
 I care about reliability, performance, and delivering solutions that move business metrics — not just code.
 
-I've worked on platforms serving millions of users, reduced operational costs by more than 90%, cut processes from days to seconds, and helped teams move faster through automation and strong engineering decisions.
+I've worked on high-impact platforms, improving performance, reliability and delivery speed through automation and solid engineering fundamentals.
 
 Focused on backend architecture, distributed systems and software design — clean, scalable and built to last.
 
@@ -26,10 +26,10 @@ Focused on backend architecture, distributed systems and software design — cle
 
 ### 📌 Experience Highlights
 
-- 🚀 Reduced validation latency by **96%** and operational cost by **93.7%** building an in-house validation system in Go (**iFood**)  
+- 🚀 Reduced validation latency by **96%** and operational cost by **93.7%** building an in-house validation system in Go  
 - 🔄 Unified **150k+ leads** using Kotlin + PostgreSQL — improving flow reliability and traceability  
 - ⚡ Reduced report generation time from **7 days → seconds** with automation in Ruby on Rails  
-- 📈 Delivered features that exceeded quarterly goals by **120%** at **Pipefy**  
+- 📈 Delivered features that exceeded quarterly goals by **120%**  
 - 🧩 Migrated core platform from Elixir → Ruby, enabling **90% of client interactions within the first month**  
 - 🧪 Established QA standards across 9 services, later evolving into a dedicated QA team
 
